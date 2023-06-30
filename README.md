@@ -7,6 +7,6 @@ To download RStudio, please follow the instructions in [this](https://rpubs.com/
 
 # View slides online
 
-- [Data visualisation]()
+- [Data visualisation](https://rpubs.com/jensroes/ntu-data-viz)
 
 
