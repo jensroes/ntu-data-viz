@@ -88,12 +88,12 @@ knitr::include_graphics("gfx/wickham.jpg")
 
 ## Download repository
 
-- Download: [https://github.com/jensroes/](https://github.com/jensroes/edge-hill-r-workshop)
+- Download: [https://github.com/jensroes/ntu-data-viz](https://github.com/jensroes/ntu-data-viz)
 - Click on: `Code` \> `Download ZIP` \> unzip directory on your machine.
-- Open project by double clicking on `edge-hill-r-workshop.Rproj`
-- `data-viz/exercises/`: exercises associated with each topic
-- `data-viz/slides.Rmd`: these slides in R markdown format (`.html` format provided as well)
-- `../data/`: scripts read data from here
+- Open project by double-clicking on `ntu-data-viz.Rproj`
+- `exercises/`: exercises associated with each topic
+- `slides/slides.Rmd`: these slides in R markdown format (`.html` format provided as well)
+- `data/`: scripts read data from here
 
 
 ## Example data set: @blomkvist2017reference 
