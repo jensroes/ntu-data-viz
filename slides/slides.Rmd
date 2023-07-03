@@ -68,23 +68,6 @@ theme_set(
 ```
 
 
-## Recommended reading 
-
-<div style="float: left; width: 40%;">
-
-- [*R for Data Science*](https://r4ds.had.co.nz/) by @wickham2016r
-- [*Doing Data Science in R*](https://www.mjandrews.org/book/ddsr/) by @andrews2021doing
-
-
-
-</div>
-<div style="float: left; width: 55%;">
-
-```{r fig.align='right', out.width="55%", echo = F}
-knitr::include_graphics("gfx/wickham.jpg")
-```
-
-</div>
 
 ## Download repository
 
@@ -1100,7 +1083,7 @@ cat(x)
 
 <div style="float: left; width: 55%;">
 
-![[@wong2010points, 665]](../gfx/wong2010c.png){#id .class width=80% height=75%}
+![[@wong2010points, 665]](gfx/wong2010c.png){#id .class width=80% height=75%}
 
 </div>
 
@@ -1168,7 +1151,7 @@ ggplot(blomkvist, aes(x = smoker, y = rt_hand_d)) +
 
 <div style="float: left; width: 55%;">
 
-![[@wong2010points, 665]](../gfx/wong2010ab.png){#id .class width=80% height=75%}
+![[@wong2010points, 665]](gfx/wong2010ab.png){#id .class width=80% height=75%}
 
 </div>
 
@@ -1554,7 +1537,7 @@ ggplot(data = blomkvist, aes(y = rt_hand_d, x = smoker)) +
 
 <div style="float: right;">
 
-![](../gfx/boxplot.png){#id .class width=70%}
+![](gfx/boxplot.png){#id .class width=70%}
 
 </div>
 
