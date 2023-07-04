@@ -43,7 +43,7 @@ rt_plot_2 + ---
 rt_plot_2 + ---
 
 # There are many observations on the lower end and few on the upper.
-# In additional to jittered points, use log scale the x axis using scale_y_log10()
+# In additional to jittered points, use log scale the y axis using scale_y_log10()
 rt_plot_2 + --- + ---
 
 # To add summary descriptives to the plot, we can add a boxplot using geom_boxplot() to the jittered points

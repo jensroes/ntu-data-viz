@@ -20,7 +20,7 @@ hist_diff
 hist_diff + geom_histogram(alpha = ---)
 
 # By default the two groups are shown as stacked bars which can be made explicit as:
-hist_diff + geom_histogram(position = "---", alpha = ---)
+hist_diff + geom_histogram(position = "stack", alpha = ---)
 
 # Better ways of representing the data is by replacing stack with "dodge"
 # (bars are next to each other)
